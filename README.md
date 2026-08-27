@@ -32,6 +32,14 @@ The project uses **Qwen2.5-3B-Instruct**, fine-tuned using **LoRA (Low-Rank Adap
 
 ---
 
+## Project Architecture & Evaluation Overview
+
+The diagram below gives an overview of the project pipeline, evaluation framework, key results, and my main contributions.
+
+![Project Architecture and Evaluation Overview](project-evaluation-overview.png)
+
+---
+
 ## System Architecture
 
 ```text
