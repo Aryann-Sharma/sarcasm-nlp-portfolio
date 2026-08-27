@@ -2,9 +2,7 @@
 
 An NLP project exploring **sarcasm classification and controlled tone transformation** using a parameter-efficiently fine-tuned large language model.
 
-This project was developed as part of a team project for **CS4248 Natural Language Processing at the National University of Singapore**.
-
-My primary responsibility was the **evaluation and analysis workstream**: designing and implementing the framework used to determine not only whether the model produced linguistically similar outputs, but whether the transformations actually achieved the intended change in tone.
+This project was developed as part of a team project. My primary responsibility was the **evaluation and analysis workstream**: designing and implementing the framework used to determine not only whether the model produced linguistically similar outputs, but whether the transformations actually achieved the intended change in tone.
 
 > **Note:** The original project repository is private. This repository serves as a technical case study documenting the system architecture, my contributions, evaluation methodology, and key findings.
 
